@@ -3,3 +3,5 @@ npm -v
 npm create vite@latest meuApp
 npm install bootstrap react-router-dom
 npm run dev
+
+https://github.com/Universidade-Livre/ciencia-da-computacao

@@ -33,6 +33,7 @@ export default function TarefasSimples() {
                     {tarefas.map((tarefa, index) => (
                         <li key={index} className="list-group-item">
                             {tarefa}
+                            <button type="button" class="btn-close"></button>
                         </li>
                     ))}
                 </ul>
