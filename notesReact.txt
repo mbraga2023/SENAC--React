@@ -5,3 +5,6 @@ npm install bootstrap react-router-dom
 npm run dev
 
 https://github.com/Universidade-Livre/ciencia-da-computacao
+
+https://moodle.ifrs.edu.br/enrol/index.php?id=9781
+https://matricula.anhanguera.com/ead/curso-livre/desenvolvimento-de-sistemas-profissionalizante/
