@@ -1,6 +1,6 @@
 node -v
 npm -v
-npm create vite@latest meuApp
+npm create vite@latest apiContatos
 npm install bootstrap react-router-dom
 npm run dev
 
@@ -8,3 +8,65 @@ https://github.com/Universidade-Livre/ciencia-da-computacao
 
 https://moodle.ifrs.edu.br/enrol/index.php?id=9781
 https://matricula.anhanguera.com/ead/curso-livre/desenvolvimento-de-sistemas-profissionalizante/
+
+
+Entrada
+Processamento
+Saída
+
+
+(React)  Front-end <-> API <-> Back-end (PHP e MySQL)
+
+Navegador
+
+Postman
+Insomnia
+
+API Rest
+
+API, cada endereço é chamado de endpoint
+https://limeiraweb.com.br/api/tarefas
+
+Create	- POST
+Read	- GET
+Update	- PUT
+Delete	- DELETE
+
+Verbos HTTP
+
+
+JSON - Formato de comunicação entre aplicações
+
+https://limeiraweb.com.br/api/tarefas/74
+
+{
+	"nome": "E o vento levou",
+	"situacao": "concluido"
+}
+
+
+
+
+TarefasApi
+
+npm install axios
+
+=============================================================
+App de contatos
+Gerenciar uma lista de contatos pessoais.
+Endpoint da API: [em breve]
+Nome AppContatos
+Campos: 
+- id
+- Nome
+- Whatsapp
+- E-mail
+
+Funcionalidades: 
+- Listar os contatos em ordem alfabética "com separador de letras"
+- Opção para remover um conta da lista
+	- solicitar uma confirmação de exclusão
+- Opção para alterar dados de um contato, exceto o id.
+- Formulário para inclusão dos campos acima.
+	- máscara de entrada para o Whatsapp
+	- validação para os campos email e Whatsapp (validar formato)
