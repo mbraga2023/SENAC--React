@@ -1,8 +1,11 @@
 node -v
 npm -v
-npm create vite@latest apiContatos
+npm create vite@latest catalogoLivros
 npm install bootstrap react-router-dom
+npm install json-server
 npm run dev
+
+json-server --watch src/db.json --port 5000
 
 https://github.com/Universidade-Livre/ciencia-da-computacao
 
@@ -70,3 +73,18 @@ Funcionalidades:
 - Formulário para inclusão dos campos acima.
 	- máscara de entrada para o Whatsapp
 	- validação para os campos email e Whatsapp (validar formato)
+
+	===================================================
+Projeto Catálogo de Livros (CRUD)
+
+1 - Criar o projeto
+2 - Remover códigos do projeto padrão do React
+3 - Importar o Bootstrap no main
+4 - Criar os componentes Menu, LivroList e LivroForm
+5 - Criar o conteúdo do Menu
+6 - Definir as rotas e lógica no App.js
+7 - Criar o layout do LivroList
+8 - Criar um servidor fake para simular o backend
+9 - Criar as funcionalidades do LivroList
+10 - Criar o layout do LivroForm
+11 - Criar as funcionalidades do LivroForm

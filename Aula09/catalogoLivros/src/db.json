@@ -1,0 +1,32 @@
+{
+  "livros": [
+    {
+      "id": "001",
+      "titulo": "E o Vento Levou",
+      "paginas": 200,
+      "categoria": "Drama",
+      "descricao": "Um romance clássico sobre amor e guerra no sul dos EUA."
+    },
+    {
+      "id": "002",
+      "titulo": "Dom Quixote",
+      "paginas": 350,
+      "categoria": "Aventura",
+      "descricao": "As aventuras do cavaleiro andante Dom Quixote e seu escudeiro."
+    },
+    {
+      "id": "003",
+      "titulo": "1984",
+      "paginas": 328,
+      "categoria": "Distopia",
+      "descricao": "Um olhar sombrio sobre um futuro totalitário e vigilância constante."
+    },
+    {
+      "id": "004",
+      "titulo": "O Pequeno Príncipe",
+      "paginas": 96,
+      "categoria": "Infantil",
+      "descricao": "Uma fábula poética que explora a inocência e a sabedoria das crianças."
+    }
+  ]
+}
