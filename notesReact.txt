@@ -5,7 +5,7 @@ npm install bootstrap react-router-dom
 npm install json-server
 npm run dev
 
-json-server --watch src/db.json --port 5000
+npx json-server --watch src/db.json --port 5000
 
 https://github.com/Universidade-Livre/ciencia-da-computacao
 

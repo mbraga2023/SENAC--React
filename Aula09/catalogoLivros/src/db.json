@@ -27,6 +27,41 @@
       "paginas": 96,
       "categoria": "Infantil",
       "descricao": "Uma fábula poética que explora a inocência e a sabedoria das crianças."
+    },
+    {
+      "id": "005",
+      "titulo": "Cem Anos de Solidão",
+      "paginas": 417,
+      "categoria": "Realismo Mágico",
+      "descricao": "A saga da família Buendía na mítica cidade de Macondo."
+    },
+    {
+      "id": "006",
+      "titulo": "O Alquimista",
+      "paginas": 208,
+      "categoria": "Ficção",
+      "descricao": "Uma jornada espiritual sobre seguir os sonhos e o destino."
+    },
+    {
+      "id": "007",
+      "titulo": "O Hobbit",
+      "paginas": 310,
+      "categoria": "Fantasia",
+      "descricao": "As aventuras de Bilbo Bolseiro em uma jornada pelo mundo da Terra-média."
+    },
+    {
+      "id": "008",
+      "titulo": "A Revolução dos Bichos",
+      "paginas": 112,
+      "categoria": "Satira Política",
+      "descricao": "Uma alegoria sobre o totalitarismo e a corrupção do poder."
+    },
+    {
+      "id": "a9a0",
+      "titulo": "Teste",
+      "paginas": "213123",
+      "categoria": "Romance",
+      "descricao": "132 3 fsdrfs 123123123"
     }
   ]
 }
